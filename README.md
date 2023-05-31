@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/22nd_wallflower) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-chaudhary-751897157/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white)](https://dev.to/shankssc)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shankssc/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/shankssc/)
 
 # 💻 Tech Stack:
 
