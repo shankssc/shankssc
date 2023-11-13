@@ -52,7 +52,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) 
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=plastic) 
 [![React Storybook](https://img.shields.io/badge/-React%20Storybook-%23FFFFFF?style=plastic&logo=storybook&logoColor=FF4785)](https://storybook.js.org/)
-
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=plastic&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### Servers
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
