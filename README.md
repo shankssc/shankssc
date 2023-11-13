@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [J1 (TypeScript Edition)](https://github.com/shankssc/J1_TSVer)<br><br>- 🌱 I’m currently learning **Next.js, Vue.js, Vercel, CI/CD, Jenkins, Kubernetes**<br><br>- 👨‍💻 All of my projects are available at [https://suyash-portfolio.netlify.app/](https://suyash-portfolio.netlify.app/)<br><br>- 💬 Ask me about **React, Python,JavaScript,GraphQL**<br><br>- 📫 How to reach me **suyash15122@gmail.com**<br><br>- ⚡ Fun fact **I am an amateur fictional storywriter**
+- 🔭 I’m currently working on [J1 (TypeScript Edition)](https://github.com/shankssc/J1_TSVer)<br><br>- 🌱 I’m currently in process of learning **Next.js and CI/CD**<br><br>- 👨‍💻 All of my projects are available at [https://suyash-portfolio.netlify.app/]([https://suyash-portfolio.netlify.app/](https://suyash-portfolio-next-js.vercel.app/projects)<br><br>- 💬 Ask me about **React, Python,JavaScript,GraphQL**<br><br>- 📫 How to reach me **suyash15122@gmail.com**<br><br>- ⚡ Fun fact **I am an amateur fictional storywriter**
 
 
 ## 🌐 Socials:
