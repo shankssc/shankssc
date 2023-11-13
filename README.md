@@ -29,8 +29,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
 ### Frameworks, Platforms and Technologies
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)  
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
@@ -52,7 +51,8 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) 
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=plastic) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
+![React Storybook](https://img.shields.io/badge/-React%20Storybook-%23FF4785?style=plastic)
+
 
 ### Servers
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
@@ -62,7 +62,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
+![MSSQL](https://img.shields.io/badge/-MSSQL-%23CC2927?style=plastic) 
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
