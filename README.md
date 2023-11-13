@@ -61,7 +61,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) 
-![MSSQL](https://img.shields.io/badge/-MSSQL-%23CC2927?style=plastic) 
+[![MSSQL](https://img.shields.io/badge/-MSSQL-%23CC2927?style=plastic&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server) 
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
