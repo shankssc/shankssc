@@ -1,6 +1,6 @@
 # Hi, I'm Suyash Chaudhary 👋
 
-**Full-Stack Engineer** building production web applications with modern technologies. Currently **Founding Engineer @ auntEDNA.ai**, shipping AI-powered mental health platforms used by **670+ users** across school districts.
+**Full-Stack Engineer** building production web applications with modern technologies. Currently **Founding Engineer @ auntEDNA.ai**, shipping AI-powered mental health platforms that will be used by **670+ users** across school districts and 2 clinics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-chaudhary-751897157/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://suyash-portfolio-next-js.vercel.app/)
