@@ -1,171 +1,97 @@
-# Hi, I'm Suyash Chaudhary 👋
+# 👋 Hi, I'm Suyash Chaudhary  
+*Full-Stack Engineer | Building scalable web applications with React, TypeScript & Python*
 
-**Full-Stack Engineer** building production web applications with modern technologies. Currently **Founding Engineer @ auntEDNA.ai**, shipping AI-powered mental health platforms that will be used by **670+ users** across school districts and 2 clinics.
+## 💼 Professional Snapshot
+- 🔭 **Currently**: Building production-grade full-stack applications with modern JavaScript/TypeScript and Python ecosystems  
+- 🌱 **Deepening**: Event-driven architecture, CI/CD optimization, Stripe payment flows, and real-time systems  
+- 📫 **Reach me**: suyash15122@gmail.com | [LinkedIn](https://linkedin.com/in/suyash-chaudhary-751897157/)  
+- 🌐 **Portfolio**: [suyash-portfolio-next-js.vercel.app](https://suyash-portfolio-next-js.vercel.app)  
+- ⚡ **Beyond code**: Writing fictional short stories 📖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-chaudhary-751897157/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://suyash-portfolio-next-js.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyash15122@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shankssc/)
+## 🌐 Professional Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-chaudhary-751897157/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/shankssc/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/shankssc)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://suyash-portfolio-next-js.vercel.app)
 
----
+## 🛠️ Technical Competencies
 
-## 🚀 What I'm Building
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### Current Focus
-- **Real-time Analytics Dashboards** for clinical insights at auntEDNA.ai
-- **WebSocket-powered Chat Systems** reducing latency by 20%
-- **Component Libraries** with ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) accelerating development by 20%
-- **CI/CD Pipelines** with ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) cutting deployment time by 40%
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-### Exploring & Learning
-- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) Payment Gateway Integration
-- Event-Driven Architecture patterns
-- Real-time Update Systems with ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) and ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
 
----
+### ☁️ Cloud Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
 
-## 💼 Professional Highlights
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-```typescript
-const experience = {
-  current: "Founding Fullstack Engineer @ auntEDNA.ai",
-  impact: [
-    "🎯 Shipped production app to 670+ beta users across 3 school districts",
-    "⚡ Reduced chat message latency by 20% via WebSocket optimization",
-    "🎨 Built component library accelerating UI development by 20%",
-    "📊 Created analytics dashboard reducing manual reporting by 35%",
-    "🧪 Established testing practices cutting post-release bugs by 30%",
-  ],
-  previous: [
-    "Application Developer @ Indiana University (14 school districts)",
-    "Cloud Interoperability Intern @ Education Analytics Inc."
-  ]
-}
-```
+### 🧪 Testing
+![Playwright](https://img.shields.io/badge/Playwright-0099FF?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
----
+### 🔒 Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat&logo=oauth&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-404D59?style=flat&logo=passport&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=flat&logo=amazon-cognito&logoColor=white)
 
-## 🛠️ Tech Stack
+### 🛠️ DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
-### Backend Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-**AWS Services:** Lambda • EC2 • S3 • RDS • DynamoDB • SQS • EventBridge • Elastic Beanstalk
-
-### Databases & Caching
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-### Testing & Tools
-![Vitest](https://img.shields.io/badge/-Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
----
-
-## 🎯 Featured Projects
-
-### 🏥 [auntEDNA.ai](https://github.com/shankssc) - AI Mental Health Platform
-> Production web app serving 670+ users across school districts
-
-**Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-- 🎨 Built production-grade component library with Storybook
-- ⚡ Integrated real-time WebSocket streams with LLM services
-- 📊 Designed analytics dashboard for clinical insights
-- 🧪 Established CI/CD with GitHub Actions + comprehensive testing
-
-### 📧 [Kairos](https://github.com/shankssc) - Serverless Marketing Automation
-> Automated engagement system for 100+ users
-
-**Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) ![SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazon-sqs&logoColor=white)
-
-- 🤖 Built serverless workflows with AWS Lambda + SQS
-- 📅 Automated daily notifications via AWS Pinpoint
-- ⏰ Scheduled with EventBridge cron jobs
-
-### 🍕 [J1](https://github.com/shankssc/J1) - Full-Stack Food Delivery SaaS
-> Multi-role food delivery platform with microservices
-
-**Stack:** ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- 📱 Built with React Native + Redux for state management
-- 🔐 Integrated JWT authentication & Stripe payment gateway
-- 🚀 Deployed on AWS Amplify with Docker containerization
-- 📡 GraphQL API with Apollo Server for efficient data fetching
-
----
-
-## 📊 GitHub Stats
-
+## 📊 GitHub Analytics
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=shankssc&theme=react&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shankssc&theme=react&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shankssc&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shankssc&theme=merko&hide_border=true&include_all_commits=false&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shankssc&theme=merko&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankssc&theme=merko&hide_border=true&layout=compact&langs_count=6" />
 </div>
 
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Check out my articles on [Dev.to](https://dev.to/shankssc)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 Random Dev Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-chaudhary-751897157/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://suyash-portfolio-next-js.vercel.app/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shankssc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyash15122@gmail.com)
-
-![](https://visitcount.itsvg.in/api?id=shankssc&icon=6&color=3)
-
-**Open to collaboration on innovative full-stack projects!**
-
-</div>
-
----
-
-<sub>💫 Crafted with passion by Suyash Chaudhary</sub>
+> ✨ *Technologies listed represent hands-on experience across professional roles and personal projects. Open to full-time, contract, and freelance opportunities.*
