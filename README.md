@@ -87,11 +87,4 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shankssc&theme=merko&hide_border=true&include_all_commits=false&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shankssc&theme=merko&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankssc&theme=merko&hide_border=true&layout=compact&langs_count=6" />
-</div>
-
 > ✨ *Technologies listed represent hands-on experience across professional roles and personal projects. Open to full-time, contract, and freelance opportunities.*
